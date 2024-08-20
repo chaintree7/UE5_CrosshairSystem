@@ -9,7 +9,8 @@
 ![image](https://github.com/user-attachments/assets/81f58f80-e902-4a6e-bedd-c61ecfc343f3)
 
 ## Component Parameters
-![image](https://github.com/user-attachments/assets/3e337c13-50f2-427e-bc3d-941c342964f7)
+![image](https://github.com/user-attachments/assets/201eab8d-f3e4-4bbe-a936-3f596881c756)
+
 
 | Params| Description |
 | ----------- | ----------- |
@@ -55,3 +56,7 @@
 ## Get Spread Value
 #### Get the current spread value.
 ![image](https://github.com/user-attachments/assets/5706598d-518a-4aff-8fe6-b2c03482626e)
+
+## Event OnSpreadChanged
+![image](https://github.com/user-attachments/assets/8f5acbf0-90be-4c38-9ab4-b154a36e5114)
+
