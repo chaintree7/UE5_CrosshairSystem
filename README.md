@@ -1,11 +1,13 @@
 
 # Advanced Crosshair System
+![20240821133743](https://github.com/user-attachments/assets/a16c4baf-0b65-4e9a-9d16-6595bb4b7b61)
+
 ### This is a very easy to integrate component that will easily add a precise crosshair to your project and you can also add unique properties for each weapon
 ### In demo, different performances are provided for moving jumping aiming of pistol, rifle, and shotgun.
 #### third person
-![image](https://github.com/user-attachments/assets/5f37fc33-0500-40fc-a1fa-281b32230cc5)
+![20240821130930](https://github.com/user-attachments/assets/c141e529-2377-4b37-818b-1df637de91b7)
 #### first person
-![image](https://github.com/user-attachments/assets/40ab635a-0c6d-4e0c-b53a-4455e17820bc)
+![20240821133556](https://github.com/user-attachments/assets/23fe0202-1196-4873-b05d-1ea6db7838d5)
 
 ---
 
