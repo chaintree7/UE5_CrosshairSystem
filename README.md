@@ -1,7 +1,7 @@
 
 # Advanced Crosshair System
 ### This is a very easy to integrate component that will easily add a precise crosshair to your project and you can also add unique properties for each weapon
-
+### In demo, different performances are provided for moving jumping aiming of pistol, rifle, and shotgun.
 
 ---
 
