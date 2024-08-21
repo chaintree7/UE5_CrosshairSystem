@@ -29,6 +29,12 @@
 | `Spread Recovery Time Curve` |  `Spread Recovery Time Curve (Usually just use the default curve)` 
 | `Spread Recovery Rate` |  `Spread Recovery Rate` 
 | `Correction Factor` |  `When line trace, the impact point will be offset depending on the start point.(3000 for start point is Actor position)` 
+
+## Spread Recovery Time Curve
+![image](https://github.com/user-attachments/assets/77928998-f57f-4500-834a-e2dbb5096d2a)
+
+
+
 ---
 # Functions
 
