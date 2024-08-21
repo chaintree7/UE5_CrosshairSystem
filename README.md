@@ -9,7 +9,8 @@
 ![image](https://github.com/user-attachments/assets/81f58f80-e902-4a6e-bedd-c61ecfc343f3)
 
 ## Component Parameters
-![image](https://github.com/user-attachments/assets/201eab8d-f3e4-4bbe-a936-3f596881c756)
+![image](https://github.com/user-attachments/assets/f5f932e6-e4a3-4533-8933-7e3fd494711e)
+
 
 
 | Params| Description |
@@ -21,6 +22,7 @@
 | `Max Spread` |  `The maximum spread`
 | `Spread Recovery Time Curve` |  `Spread Recovery Time Curve (Usually just use the default curve)` 
 | `Spread Recovery Rate` |  `Spread Recovery Rate` 
+| `Correction Factor` |  `When line trace, the impact point will be offset depending on the start point.(3000 for start point is Actor position)` 
 ---
 # Functions
 
