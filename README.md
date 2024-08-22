@@ -1,6 +1,9 @@
 
 # Advanced Crosshair System
-![20240821133743](https://github.com/user-attachments/assets/a16c4baf-0b65-4e9a-9d16-6595bb4b7b61)
+***
+# $${\color{red} This \space system \space will \space be \space delayed \space due \space to \space the \space following \space reason } $$
+![image](https://github.com/user-attachments/assets/c72c672c-f7dc-45f4-a7ab-61f99999c22f)
+***
 
 ### This is a very easy to integrate component that will easily add a precise crosshair to your project and you can also add unique properties for each weapon
 ### In demo, different performances are provided for moving jumping aiming of pistol, rifle, and shotgun.
